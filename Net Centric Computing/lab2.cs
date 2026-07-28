@@ -46,10 +46,10 @@ class Program
     {
         Shape s;
 
-        s = new Circle(5);
+        s = new Circle(10);
         Console.WriteLine("Area of Circle = " + s.Area());
 
-        s = new Rectangle(10, 5);
+        s = new Rectangle(15, 10);
         Console.WriteLine("Area of Rectangle = " + s.Area());
     }
 }
