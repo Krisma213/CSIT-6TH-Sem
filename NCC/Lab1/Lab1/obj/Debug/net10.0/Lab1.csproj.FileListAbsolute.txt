@@ -1,0 +1,14 @@
+C:\krisma\NCC\Lab1\Lab1\bin\Debug\net10.0\Lab1.exe
+C:\krisma\NCC\Lab1\Lab1\bin\Debug\net10.0\Lab1.deps.json
+C:\krisma\NCC\Lab1\Lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+C:\krisma\NCC\Lab1\Lab1\bin\Debug\net10.0\Lab1.dll
+C:\krisma\NCC\Lab1\Lab1\bin\Debug\net10.0\Lab1.pdb
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.dll
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\refint\Lab1.dll
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.pdb
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+C:\krisma\NCC\Lab1\Lab1\obj\Debug\net10.0\ref\Lab1.dll
