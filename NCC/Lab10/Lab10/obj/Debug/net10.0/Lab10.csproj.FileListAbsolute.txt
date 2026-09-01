@@ -1,0 +1,14 @@
+C:\krisma\NCC\Lab10\Lab10\bin\Debug\net10.0\Lab10.exe
+C:\krisma\NCC\Lab10\Lab10\bin\Debug\net10.0\Lab10.deps.json
+C:\krisma\NCC\Lab10\Lab10\bin\Debug\net10.0\Lab10.runtimeconfig.json
+C:\krisma\NCC\Lab10\Lab10\bin\Debug\net10.0\Lab10.dll
+C:\krisma\NCC\Lab10\Lab10\bin\Debug\net10.0\Lab10.pdb
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.AssemblyInfoInputs.cache
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.AssemblyInfo.cs
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.csproj.CoreCompileInputs.cache
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.dll
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\refint\Lab10.dll
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.pdb
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\Lab10.genruntimeconfig.cache
+C:\krisma\NCC\Lab10\Lab10\obj\Debug\net10.0\ref\Lab10.dll
