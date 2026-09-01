@@ -1,0 +1,14 @@
+C:\krisma\NCC\Lab5\Lab5\bin\Debug\net10.0\Lab5.exe
+C:\krisma\NCC\Lab5\Lab5\bin\Debug\net10.0\Lab5.deps.json
+C:\krisma\NCC\Lab5\Lab5\bin\Debug\net10.0\Lab5.runtimeconfig.json
+C:\krisma\NCC\Lab5\Lab5\bin\Debug\net10.0\Lab5.dll
+C:\krisma\NCC\Lab5\Lab5\bin\Debug\net10.0\Lab5.pdb
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfoInputs.cache
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfo.cs
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.csproj.CoreCompileInputs.cache
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.dll
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\refint\Lab5.dll
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.pdb
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\Lab5.genruntimeconfig.cache
+C:\krisma\NCC\Lab5\Lab5\obj\Debug\net10.0\ref\Lab5.dll
